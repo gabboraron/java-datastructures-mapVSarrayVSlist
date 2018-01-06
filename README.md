@@ -1,2 +1,4 @@
 # java-datastructures-mapVSarrayVSlist
-how does look like a map data structure as an array, list?
+How does look like a map data structure as an array, list?
+http://www.vogella.com/tutorials/JavaDatastructures/article.html
+
